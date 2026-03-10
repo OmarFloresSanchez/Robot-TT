@@ -26,6 +26,7 @@ sonido y luces de un robot móvil.
 - Leds de colores
 
 ## Fotos del robot
-
+![image](https://github.com/OmarFloresSanchez/Robot-TT/blob/main/Foto1.png)
+![image](https://github.com/OmarFloresSanchez/Robot-TT/blob/main/Foto2.png)
 ## Link
 [(Pruevas con el robot)](https://www.youtube.com/watch?v=SQMnvYvLVB0)
