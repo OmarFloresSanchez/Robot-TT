@@ -28,4 +28,4 @@ sonido y luces de un robot móvil.
 ## Fotos del robot
 
 ## Link
-[(video o imagen)](https://www.youtube.com/watch?v=SQMnvYvLVB0)
+[(Pruevas con el robot)](https://www.youtube.com/watch?v=SQMnvYvLVB0)
