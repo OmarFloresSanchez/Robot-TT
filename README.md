@@ -5,6 +5,13 @@ pulgar y meñique levantados y un puño. El proceso fue aplicado en imágenes ca
 con una cámara de vídeo. Así mismo, los gestos reconocidos son usados para controlar la dinámica,
 sonido y luces de un robot móvil.
 
+La programación de la aplicación se realizó en el lenguaje de programación Python y se traba-
+jó sobre el sistema operativo Raspberry Pi Os. A partir de ello, se realizó el entrenamiento de un
+modelo de YOLOv8 nano con un conjunto de datos propio generado con 6296 imágenes de gestos
+manuales. La programación fue integrada en una computadora Raspberry Pi 3B+, mediante la cual
+se controlan los distintos actuadores del robot móvil, permitiendo así, realizar tareas como desplazar-
+se, activar luces y activar sonido, únicamente respondiendo ante los estímulos de la mano del usuario.
+
 ## Tecnologías
 - Python
 - Raspberry Pi
@@ -24,6 +31,28 @@ sonido y luces de un robot móvil.
 - motores 5vcd
 - Bocina 3W
 - Leds de colores
+
+## Entrenamiento
+
+5 Gestos manuales:
+- Palma		
+- Índice y medio levantados
+- Puño		
+- Índice levantado
+- Pulgar y meñique levantados
+
+Division de los datos
+- 6300 Imágenes en total
+- 1260 Imágenes para cada gesto
+
+80% Entrenamiento      20% Validación
+
+![image](https://github.com/OmarFloresSanchez/Robot-TT/blob/main/Gestos.png)
+
+## Resultados
+
+En entornos con buena iluminación.
+En entornos con poca luz.
 
 ## Fotos del robot
 ![image](https://github.com/OmarFloresSanchez/Robot-TT/blob/main/Foto1.png)
