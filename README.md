@@ -49,10 +49,17 @@ Division de los datos
 
 ![image](https://github.com/OmarFloresSanchez/Robot-TT/blob/main/Gestos.png)
 
-## Resultados
+## Detecciones
 
-En entornos con buena iluminación.
-En entornos con poca luz.
+![image](https://github.com/OmarFloresSanchez/Robot-TT/blob/main/Evidencias1.png)
+![image](https://github.com/OmarFloresSanchez/Robot-TT/blob/main/Evidencias2.png)
+
+## Desempeño
+
+Se realizaron 50 pruebas para evaluar el desempeño del sistema. Los resultados se muestran en la siguiente matriz
+de confusión.
+
+![image](https://github.com/OmarFloresSanchez/Robot-TT/blob/main/Matriz.png)
 
 ## Fotos del robot
 ![image](https://github.com/OmarFloresSanchez/Robot-TT/blob/main/Foto1.png)
